@@ -42,8 +42,6 @@ Pour le moment, mes cométences sont en voie de maturation et bientot ce serait 
 
 LinkedIn : www.linkedin.com/in/gmapoi-manoti-centurystar
 
-Projets Data Science :à consulter sur mon drive (https://drive.google.com/drive/u/3/folders/1VnBeKj92SS7ATTIqYlKB0jd4P5KGOUBG).
-
 Email : [gmapoimanoti887@gmail.com]
 
 **N'hésite pas à laisser un star** sur les repos qui t'intéressent, et à me contacter pour des collaborations !
